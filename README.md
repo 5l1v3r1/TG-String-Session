@@ -14,7 +14,7 @@ Generate String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/TG-String-Session/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/TG-String-Session)
 
 ## Support Channel:
 <a href="https://t.me/AyushBots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
